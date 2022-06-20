@@ -69,5 +69,12 @@
 
 
 
+***javascript
+function some () { return 2+1 }
+some ()***
+
+
+
+
 ## Заключение
 
