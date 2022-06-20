@@ -69,9 +69,12 @@
 
 
 
-***javascript
+*** javascript
 function some () { return 2+1 }
-some ()***
+some ()
+***
+
+[документ](https://proektoria.online/catalog/professions/programmist)
 
 
 
