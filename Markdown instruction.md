@@ -73,5 +73,15 @@
 
 
 
+***
+function some () { return 2+1 }
+some ()
+***
+
+[документ](https://proektoria.online/catalog/professions/programmist)
+
+
+
+
 ## Заключение
 
