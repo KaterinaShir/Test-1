@@ -81,6 +81,10 @@ some ()
 [документ](https://proektoria.online/catalog/professions/programmist)
 
 
+[Google][1]
+
+[1] : google.com "Сайт Google"
+
 
 
 ## Заключение
