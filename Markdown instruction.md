@@ -81,10 +81,18 @@ some ()
 [документ](https://proektoria.online/catalog/professions/programmist)
 
 
-[Google][1]
+Чтобы перейти на Google, необходимо нажать на ссылку [Google][1]
 
-[1] : google.com "Сайт Google"
+[1] : https://google.com "Сайт Google"
 
+
+
+
+
+![Еще картинка][фото]
+Второй вариант добавления фото
+
+[фото]:https://filearchive.cnews.ru/img/news/2022/02/03/kod600.jpg
 
 
 ## Заключение
